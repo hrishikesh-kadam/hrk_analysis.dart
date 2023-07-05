@@ -1,0 +1,16 @@
+name: hrk_analysis
+version: 0.1.0-pre.1
+
+description: >-
+  A library to accumulate required dart and flutter analysis options.
+repository: https://github.com/hrishikesh-kadam/hrk_analysis.dart
+topics:
+  - analysis
+  - lints
+
+environment:
+  sdk: ^3.0.0
+
+dev_dependencies:
+  lints: ^2.0.0
+  test: ^1.21.0
