@@ -1,5 +1,4 @@
 [![ci](https://github.com/hrishikesh-kadam/hrk_analysis.dart/actions/workflows/ci.yaml/badge.svg)](https://github.com/hrishikesh-kadam/hrk_analysis.dart/actions/workflows/ci.yaml)
-[![codecov](https://codecov.io/gh/hrishikesh-kadam/hrk_analysis.dart/branch/main/graph/badge.svg)](https://codecov.io/gh/hrishikesh-kadam/hrk_analysis.dart)
 [![pub package](https://img.shields.io/pub/v/hrk_analysis.svg)](https://pub.dev/packages/hrk_analysis)
 
 A library to accumulate required dart and flutter analysis options.
