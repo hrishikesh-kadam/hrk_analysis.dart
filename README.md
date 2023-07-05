@@ -17,7 +17,7 @@ or
 flutter pub add dev:hrk_analysis
 ```
 
-Then, add an include in `analysis_options.yaml`:  
+Then, add the following include statement in `analysis_options.yaml`:  
 
 ```yaml
 include: package:hrk_analysis/analysis_options.yaml
