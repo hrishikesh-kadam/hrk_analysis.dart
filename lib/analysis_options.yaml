@@ -3,9 +3,10 @@ include: package:flutter_lints/flutter.yaml
 linter:
   rules:
     prefer_single_quotes: true
-    use_super_parameters: true
     prefer_relative_imports: true
     directives_ordering: true
+    # Added in flutter_lints-3.0.0
+    use_super_parameters: true
 
 analyzer:
   errors:
