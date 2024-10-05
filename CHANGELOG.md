@@ -1,3 +1,7 @@
+## 1.1.0
+
+- Bump flutter_lints to ^5.0.0
+
 ## 1.0.0
 
 - Bump flutter_lints to ^4.0.0
