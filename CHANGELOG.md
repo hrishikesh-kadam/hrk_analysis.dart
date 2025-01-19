@@ -1,3 +1,7 @@
+## 2.0.0
+
+- Make the tag v1.1.0 a breaking change
+
 ## 1.1.0
 
 - Bump flutter_lints to ^5.0.0

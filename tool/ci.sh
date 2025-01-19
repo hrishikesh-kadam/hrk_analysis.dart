@@ -2,14 +2,14 @@
 
 set -e -o pipefail
 
-dart pub get
+dart pub upgrade
 
 dart format --output none --set-exit-if-changed .
 
 dart analyze lib --fatal-infos
 
 pushd analysis_test &> /dev/null
-dart pub get
+dart pub upgrade
 dart analyze --fatal-infos
 popd &> /dev/null
 
